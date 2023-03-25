@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+
+
+<table border="1" style="width:100%">
+ <th>履  歷</th>
+<table border="1" style="width:100%">
+<tr>
+<th align="left"colspan="1">姓名:</th>
+<th align="left"colspan="3">陳宴萱</th>
+<th align="left"colspan="2">照片</th>
+</tr>
+
+</tr>
+<tr>
+<td>出生日期</td>
+<td>94.07.02</td>
+<td>性別</td>
+<td>女</td>
+
+
+<th rowspan="3"><img src="" alt="圖片1"></td>
+
+</tr>
+<td>籍貫/出生地:</td>
+<td>桃園</td>
+<td>連絡電話:</td>
+<td>0974123972</td>
+
+</tr>
+<td>通訊地址</td>
+<th align="left"colspan="3">桃園市大園區和平西路一段318號</th>
+<tr>
+<th align="left"colspan="1">電子信箱</th>
+<th align="left"colspan="4">1091136@stu.gish.tyc.edu.tw</th>
+<tr>
+<th align="left"colspan="1">學歷</th>
+<th align="left"colspan="4">1.南崁國小
+2.南崁國中
+3.觀音高中</th></td>
+
+<tr>
+<th align="left"colspan="1">專長
+<th align="left"colspan="4">跳舞、獨輪車</th>
+<tr>
+<th align="left"colspan="1">興趣</th>
+<th align="left"colspan="4">聽歌、跳舞、配音</th>
+
+
+</tr>
+</table>
+
+
+
+
+
+
+
